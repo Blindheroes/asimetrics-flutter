@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886539389798",
+    "project_id": "asimetrics-198b8",
+    "storage_bucket": "asimetrics-198b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886539389798:android:3e8282980062bf4c1896a7",
+        "android_client_info": {
+          "package_name": "com.example.asimetrics_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886539389798-d4s5uno6pvfckaalr80chvo5fs6rn6c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCqgb01q6B8OaF9KKPXqB4KyfsqriqEVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886539389798-d4s5uno6pvfckaalr80chvo5fs6rn6c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
